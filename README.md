@@ -1,9 +1,8 @@
-## Hi there 👋
-# 💫 About Me:
+
 Building. Learning. Shipping<br>A Fresher with big curiosity & small ego.
 
 
-## 🌐 Socials:
+
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/asimthakur05.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Asim Thakur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asimthakur05@gmail.com) 
 
 # 💻 Tech Stack:
