@@ -1,5 +1,5 @@
 ## Hi there 👋
-Building. Learning. Shipping<br>A Fresher with big curiosity & small ego.
+Building. Learning. Shipping<br>A Fresher with big curiosity & small ego
 
 
 
