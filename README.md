@@ -1,9 +1,18 @@
-## Hi there 👋
-I'm **Asimthakur**<br>
-A Fresher with big curiosity & small ego
+<!-- Inspiration: https://github.com/animeshz -->
+<p align="center"><samp><b>
+  What's up, fellow developers?
+  <br>
+  I'm Asimthakur. When not coding, catch me reading books or Exploring projects.
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=4000&pause=1000&color=D16AFF&size=16&width=520&center=true&lines=I+code+with+purpose%2C+shaping+pixels+and+possibilities%2C+;and+unravel+the+mysteries+of+technology." />
+  <br>
+</b></samp></p>
 
+<br>
 
-
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/asimthakur05.bsky.social) 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-site.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/Asim-Thakur?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOrizDmz4RH67MyrUtOTKRw%3D%3D)
+<p align="center"><samp>
+<a href="https://asimthakur.github.io" target="_blank" style="text-decoration: none !important"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/Asim-Thakur" target="_blank" style="text-decoration: none !important"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/32698126" target="_blank" style="text-decoration: none !important"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href="https://discord.com/users/asim.thakur__31390" target="_blank" style="text-decoration: none !important"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</samp></p
