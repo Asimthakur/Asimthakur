@@ -15,4 +15,7 @@
 <a href="https://www.linkedin.com/in/Asim-Thakur" target="_blank" style="text-decoration: none !important"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/32698126" target="_blank" style="text-decoration: none !important"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 <a href="https://discord.com/users/asim.thakur__31390" target="_blank" style="text-decoration: none !important"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://https://bsky.app/profile/asimthakur05.bsky.social" target="_blank" style="text-decoration: none !important">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+</a>
 </samp></p
